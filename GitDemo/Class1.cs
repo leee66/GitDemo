@@ -17,5 +17,6 @@ namespace GitDemo
         //还原2
 
         int i = 123;
+        int b = 321;
     }
 }
