@@ -18,5 +18,7 @@ namespace GitDemo
 
         int i = 123;
         int b = 321;
+
+        //在release分支上第1次修改
     }
 }
